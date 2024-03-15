@@ -19,6 +19,8 @@ dependencies:
   - XGBoost
   - shap
   - seaborn
+  - eli5
+  - statsmodels
   - pip:
       - graphviz
       - mglearn
